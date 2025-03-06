@@ -1,0 +1,156 @@
+[INFO ] 2025-03-03 14:16:33.303 [main] TC001_AccountRegistrationTest - got url from properties
+[INFO ] 2025-03-03 14:16:33.348 [main] TC001_AccountRegistrationTest - *********** Starting TC001_AccountRegistrationTest**********
+[INFO ] 2025-03-03 14:16:33.438 [main] TC001_AccountRegistrationTest - Clicked on my account link 
+[INFO ] 2025-03-03 14:16:34.116 [main] TC001_AccountRegistrationTest - Clicked on register link 
+[INFO ] 2025-03-03 14:16:34.119 [main] TC001_AccountRegistrationTest - providing customer details 
+[INFO ] 2025-03-03 14:16:35.440 [main] TC001_AccountRegistrationTest - validating expected message
+[INFO ] 2025-03-03 14:16:35.478 [main] TC001_AccountRegistrationTest - *********** Finished TC001_AccountRegistrationTest**********
+[INFO ] 2025-03-03 14:16:39.840 [main] TC002_LoginTest - got url from properties
+[INFO ] 2025-03-03 14:16:39.879 [main] TC002_LoginTest - **** Starting   TC001_LoginTest  ****
+[INFO ] 2025-03-03 14:16:40.013 [main] TC002_LoginTest - clicked on my account link
+[INFO ] 2025-03-03 14:16:40.404 [main] TC002_LoginTest - clicked on login link
+[INFO ] 2025-03-03 14:16:40.486 [main] TC002_LoginTest - got email from config properties file
+[INFO ] 2025-03-03 14:16:40.540 [main] TC002_LoginTest - got password from config properties file
+[INFO ] 2025-03-03 14:16:41.473 [main] TC002_LoginTest - ####  Login Successful  ####
+[INFO ] 2025-03-03 14:16:41.473 [main] TC002_LoginTest - **** finished   TC001_LoginTest  ****
+[INFO ] 2025-03-03 14:20:58.084 [main] TC001_AccountRegistrationTest - got url from properties
+[INFO ] 2025-03-03 14:20:58.144 [main] TC001_AccountRegistrationTest - *********** Starting TC001_AccountRegistrationTest**********
+[INFO ] 2025-03-03 14:20:58.246 [main] TC001_AccountRegistrationTest - Clicked on my account link 
+[INFO ] 2025-03-03 14:20:58.919 [main] TC001_AccountRegistrationTest - Clicked on register link 
+[INFO ] 2025-03-03 14:20:58.921 [main] TC001_AccountRegistrationTest - providing customer details 
+[INFO ] 2025-03-03 14:21:00.322 [main] TC001_AccountRegistrationTest - validating expected message
+[INFO ] 2025-03-03 14:21:00.361 [main] TC001_AccountRegistrationTest - *********** Finished TC001_AccountRegistrationTest**********
+[INFO ] 2025-03-03 14:21:04.737 [main] TC002_LoginTest - got url from properties
+[INFO ] 2025-03-03 14:21:04.775 [main] TC002_LoginTest - **** Starting   TC001_LoginTest  ****
+[INFO ] 2025-03-03 14:21:04.854 [main] TC002_LoginTest - clicked on my account link
+[INFO ] 2025-03-03 14:21:05.287 [main] TC002_LoginTest - clicked on login link
+[INFO ] 2025-03-03 14:21:05.388 [main] TC002_LoginTest - got email from config properties file
+[INFO ] 2025-03-03 14:21:05.439 [main] TC002_LoginTest - got password from config properties file
+[INFO ] 2025-03-03 14:21:06.436 [main] TC002_LoginTest - ####  Login Successful  ####
+[INFO ] 2025-03-03 14:21:06.437 [main] TC002_LoginTest - **** finished   TC001_LoginTest  ****
+[INFO ] 2025-03-03 15:21:41.130 [main] TC001_AccountRegistrationTest - got url from properties
+[INFO ] 2025-03-03 15:21:41.176 [main] TC001_AccountRegistrationTest - *********** Starting TC001_AccountRegistrationTest**********
+[INFO ] 2025-03-03 15:21:41.265 [main] TC001_AccountRegistrationTest - Clicked on my account link 
+[INFO ] 2025-03-03 15:21:41.987 [main] TC001_AccountRegistrationTest - Clicked on register link 
+[INFO ] 2025-03-03 15:21:41.989 [main] TC001_AccountRegistrationTest - providing customer details 
+[INFO ] 2025-03-03 15:21:43.317 [main] TC001_AccountRegistrationTest - validating expected message
+[INFO ] 2025-03-03 15:21:43.344 [main] TC001_AccountRegistrationTest - *********** Finished TC001_AccountRegistrationTest**********
+[INFO ] 2025-03-03 15:21:47.992 [main] TC002_LoginTest - got url from properties
+[INFO ] 2025-03-03 15:21:48.020 [main] TC002_LoginTest - **** Starting   TC001_LoginTest  ****
+[INFO ] 2025-03-03 15:21:48.077 [main] TC002_LoginTest - clicked on my account link
+[INFO ] 2025-03-03 15:21:48.474 [main] TC002_LoginTest - clicked on login link
+[INFO ] 2025-03-03 15:21:48.561 [main] TC002_LoginTest - got email from config properties file
+[INFO ] 2025-03-03 15:21:48.611 [main] TC002_LoginTest - got password from config properties file
+[INFO ] 2025-03-03 15:21:49.561 [main] TC002_LoginTest - ####  Login Successful  ####
+[INFO ] 2025-03-03 15:21:49.561 [main] TC002_LoginTest - **** finished   TC001_LoginTest  ****
+[INFO ] 2025-03-03 15:21:54.143 [main] TC_004_SearchProductTest - got url from properties
+[INFO ] 2025-03-03 15:21:54.185 [main] TC_004_SearchProductTest -  Starting TC_004_SearchProductTest 
+[INFO ] 2025-03-03 15:23:09.248 [main] TC001_AccountRegistrationTest - got url from properties
+[INFO ] 2025-03-03 15:23:09.304 [main] TC001_AccountRegistrationTest - *********** Starting TC001_AccountRegistrationTest**********
+[INFO ] 2025-03-03 15:23:09.419 [main] TC001_AccountRegistrationTest - Clicked on my account link 
+[INFO ] 2025-03-03 15:23:10.087 [main] TC001_AccountRegistrationTest - Clicked on register link 
+[INFO ] 2025-03-03 15:23:10.088 [main] TC001_AccountRegistrationTest - providing customer details 
+[INFO ] 2025-03-03 15:23:11.390 [main] TC001_AccountRegistrationTest - validating expected message
+[INFO ] 2025-03-03 15:23:11.420 [main] TC001_AccountRegistrationTest - *********** Finished TC001_AccountRegistrationTest**********
+[INFO ] 2025-03-03 15:23:15.893 [main] TC002_LoginTest - got url from properties
+[INFO ] 2025-03-03 15:23:15.939 [main] TC002_LoginTest - **** Starting   TC001_LoginTest  ****
+[INFO ] 2025-03-03 15:23:16.004 [main] TC002_LoginTest - clicked on my account link
+[INFO ] 2025-03-03 15:23:16.410 [main] TC002_LoginTest - clicked on login link
+[INFO ] 2025-03-03 15:23:16.492 [main] TC002_LoginTest - got email from config properties file
+[INFO ] 2025-03-03 15:23:16.541 [main] TC002_LoginTest - got password from config properties file
+[INFO ] 2025-03-03 15:23:17.483 [main] TC002_LoginTest - ####  Login Successful  ####
+[INFO ] 2025-03-03 15:23:17.483 [main] TC002_LoginTest - **** finished   TC001_LoginTest  ****
+[INFO ] 2025-03-03 15:23:21.919 [main] TC_004_SearchProductTest - got url from properties
+[INFO ] 2025-03-03 15:23:21.954 [main] TC_004_SearchProductTest -  Starting TC_004_SearchProductTest 
+[INFO ] 2025-03-05 12:58:52.470 [main] TC001_AccountRegistrationTest - got url from properties
+[INFO ] 2025-03-05 12:58:52.520 [main] TC001_AccountRegistrationTest - *********** Starting TC001_AccountRegistrationTest**********
+[INFO ] 2025-03-05 12:58:52.614 [main] TC001_AccountRegistrationTest - Clicked on my account link 
+[INFO ] 2025-03-05 12:58:53.283 [main] TC001_AccountRegistrationTest - Clicked on register link 
+[INFO ] 2025-03-05 12:58:53.294 [main] TC001_AccountRegistrationTest - providing customer details 
+[INFO ] 2025-03-05 12:58:54.597 [main] TC001_AccountRegistrationTest - validating expected message
+[INFO ] 2025-03-05 12:58:54.620 [main] TC001_AccountRegistrationTest - *********** Finished TC001_AccountRegistrationTest**********
+[INFO ] 2025-03-05 12:58:58.927 [main] TC002_LoginTest - got url from properties
+[INFO ] 2025-03-05 12:58:58.967 [main] TC002_LoginTest - **** Starting   TC001_LoginTest  ****
+[INFO ] 2025-03-05 12:58:59.023 [main] TC002_LoginTest - clicked on my account link
+[INFO ] 2025-03-05 12:58:59.425 [main] TC002_LoginTest - clicked on login link
+[INFO ] 2025-03-05 12:58:59.505 [main] TC002_LoginTest - got email from config properties file
+[INFO ] 2025-03-05 12:58:59.563 [main] TC002_LoginTest - got password from config properties file
+[INFO ] 2025-03-05 12:59:00.733 [main] TC002_LoginTest - ####  Login Successful  ####
+[INFO ] 2025-03-05 12:59:00.733 [main] TC002_LoginTest - **** finished   TC001_LoginTest  ****
+[INFO ] 2025-03-05 12:59:04.998 [main] TC_004_SearchProductTest - got url from properties
+[INFO ] 2025-03-05 12:59:05.039 [main] TC_004_SearchProductTest -  Starting TC_004_SearchProductTest 
+[INFO ] 2025-03-05 13:00:14.032 [main] TC001_AccountRegistrationTest - got url from properties
+[INFO ] 2025-03-05 13:00:14.077 [main] TC001_AccountRegistrationTest - *********** Starting TC001_AccountRegistrationTest**********
+[INFO ] 2025-03-05 13:00:14.171 [main] TC001_AccountRegistrationTest - Clicked on my account link 
+[INFO ] 2025-03-05 13:00:14.833 [main] TC001_AccountRegistrationTest - Clicked on register link 
+[INFO ] 2025-03-05 13:00:14.834 [main] TC001_AccountRegistrationTest - providing customer details 
+[INFO ] 2025-03-05 13:00:16.239 [main] TC001_AccountRegistrationTest - validating expected message
+[INFO ] 2025-03-05 13:00:16.268 [main] TC001_AccountRegistrationTest - *********** Finished TC001_AccountRegistrationTest**********
+[INFO ] 2025-03-05 13:00:20.666 [main] TC002_LoginTest - got url from properties
+[INFO ] 2025-03-05 13:00:20.707 [main] TC002_LoginTest - **** Starting   TC001_LoginTest  ****
+[INFO ] 2025-03-05 13:00:20.789 [main] TC002_LoginTest - clicked on my account link
+[INFO ] 2025-03-05 13:00:21.185 [main] TC002_LoginTest - clicked on login link
+[INFO ] 2025-03-05 13:00:21.267 [main] TC002_LoginTest - got email from config properties file
+[INFO ] 2025-03-05 13:00:21.318 [main] TC002_LoginTest - got password from config properties file
+[INFO ] 2025-03-05 13:00:22.479 [main] TC002_LoginTest - ####  Login Successful  ####
+[INFO ] 2025-03-05 13:00:22.480 [main] TC002_LoginTest - **** finished   TC001_LoginTest  ****
+[INFO ] 2025-03-05 13:39:55.969 [main] TC001_AccountRegistrationTest - got url from properties
+[INFO ] 2025-03-05 13:39:56.020 [main] TC001_AccountRegistrationTest - *********** Starting TC001_AccountRegistrationTest**********
+[INFO ] 2025-03-05 13:39:56.092 [main] TC001_AccountRegistrationTest - Clicked on my account link 
+[INFO ] 2025-03-05 13:39:56.768 [main] TC001_AccountRegistrationTest - Clicked on register link 
+[INFO ] 2025-03-05 13:39:56.769 [main] TC001_AccountRegistrationTest - providing customer details 
+[INFO ] 2025-03-05 13:39:58.084 [main] TC001_AccountRegistrationTest - validating expected message
+[INFO ] 2025-03-05 13:39:58.112 [main] TC001_AccountRegistrationTest - *********** Finished TC001_AccountRegistrationTest**********
+[INFO ] 2025-03-05 13:40:03.654 [main] TC002_LoginTest - got url from properties
+[INFO ] 2025-03-05 13:40:03.688 [main] TC002_LoginTest - **** Starting   TC001_LoginTest  ****
+[INFO ] 2025-03-05 13:40:03.764 [main] TC002_LoginTest - clicked on my account link
+[INFO ] 2025-03-05 13:40:04.477 [main] TC002_LoginTest - clicked on login link
+[INFO ] 2025-03-05 13:40:04.559 [main] TC002_LoginTest - got email from config properties file
+[INFO ] 2025-03-05 13:40:04.608 [main] TC002_LoginTest - got password from config properties file
+[INFO ] 2025-03-05 13:40:07.203 [main] TC002_LoginTest - ####  Login Successful  ####
+[INFO ] 2025-03-05 13:40:07.204 [main] TC002_LoginTest - **** finished   TC001_LoginTest  ****
+[INFO ] 2025-03-05 20:43:11.262 [main] TC001_AccountRegistrationTest - got url from properties
+[INFO ] 2025-03-05 20:43:11.310 [main] TC001_AccountRegistrationTest - *********** Starting TC001_AccountRegistrationTest**********
+[INFO ] 2025-03-05 20:43:11.447 [main] TC001_AccountRegistrationTest - Clicked on my account link 
+[INFO ] 2025-03-05 20:43:12.110 [main] TC001_AccountRegistrationTest - Clicked on register link 
+[INFO ] 2025-03-05 20:43:12.111 [main] TC001_AccountRegistrationTest - providing customer details 
+[INFO ] 2025-03-05 20:43:13.460 [main] TC001_AccountRegistrationTest - validating expected message
+[INFO ] 2025-03-05 20:43:13.486 [main] TC001_AccountRegistrationTest - *********** Finished TC001_AccountRegistrationTest**********
+[INFO ] 2025-03-05 20:43:17.994 [main] TC002_LoginTest - got url from properties
+[INFO ] 2025-03-05 20:43:18.033 [main] TC002_LoginTest - **** Starting   TC001_LoginTest  ****
+[INFO ] 2025-03-05 20:43:18.112 [main] TC002_LoginTest - clicked on my account link
+[INFO ] 2025-03-05 20:43:18.518 [main] TC002_LoginTest - clicked on login link
+[INFO ] 2025-03-05 20:43:18.610 [main] TC002_LoginTest - got email from config properties file
+[INFO ] 2025-03-05 20:43:18.664 [main] TC002_LoginTest - got password from config properties file
+[INFO ] 2025-03-05 20:43:19.836 [main] TC002_LoginTest - ####  Login Successful  ####
+[INFO ] 2025-03-05 20:43:19.836 [main] TC002_LoginTest - **** finished   TC001_LoginTest  ****
+[INFO ] 2025-03-05 20:47:10.958 [main] TC001_AccountRegistrationTest - got url from properties
+[INFO ] 2025-03-05 20:47:11.011 [main] TC001_AccountRegistrationTest - *********** Starting TC001_AccountRegistrationTest**********
+[INFO ] 2025-03-05 20:47:11.121 [main] TC001_AccountRegistrationTest - Clicked on my account link 
+[INFO ] 2025-03-05 20:47:11.783 [main] TC001_AccountRegistrationTest - Clicked on register link 
+[INFO ] 2025-03-05 20:47:11.786 [main] TC001_AccountRegistrationTest - providing customer details 
+[INFO ] 2025-03-05 20:47:13.158 [main] TC001_AccountRegistrationTest - validating expected message
+[INFO ] 2025-03-05 20:47:13.187 [main] TC001_AccountRegistrationTest - *********** Finished TC001_AccountRegistrationTest**********
+[INFO ] 2025-03-05 20:47:17.678 [main] TC002_LoginTest - got url from properties
+[INFO ] 2025-03-05 20:47:17.718 [main] TC002_LoginTest - **** Starting   TC001_LoginTest  ****
+[INFO ] 2025-03-05 20:47:17.849 [main] TC002_LoginTest - clicked on my account link
+[INFO ] 2025-03-05 20:47:18.245 [main] TC002_LoginTest - clicked on login link
+[INFO ] 2025-03-05 20:47:18.337 [main] TC002_LoginTest - got email from config properties file
+[INFO ] 2025-03-05 20:47:18.390 [main] TC002_LoginTest - got password from config properties file
+[INFO ] 2025-03-05 20:47:19.570 [main] TC002_LoginTest - ####  Login Successful  ####
+[INFO ] 2025-03-05 20:47:19.570 [main] TC002_LoginTest - **** finished   TC001_LoginTest  ****
+[INFO ] 2025-03-05 20:48:15.699 [main] TC001_AccountRegistrationTest - got url from properties
+[INFO ] 2025-03-05 20:48:15.743 [main] TC001_AccountRegistrationTest - *********** Starting TC001_AccountRegistrationTest**********
+[INFO ] 2025-03-05 20:48:15.890 [main] TC001_AccountRegistrationTest - Clicked on my account link 
+[INFO ] 2025-03-05 20:48:16.555 [main] TC001_AccountRegistrationTest - Clicked on register link 
+[INFO ] 2025-03-05 20:48:16.558 [main] TC001_AccountRegistrationTest - providing customer details 
+[INFO ] 2025-03-05 20:48:17.858 [main] TC001_AccountRegistrationTest - validating expected message
+[INFO ] 2025-03-05 20:48:17.887 [main] TC001_AccountRegistrationTest - *********** Finished TC001_AccountRegistrationTest**********
+[INFO ] 2025-03-05 20:48:22.365 [main] TC002_LoginTest - got url from properties
+[INFO ] 2025-03-05 20:48:22.400 [main] TC002_LoginTest - **** Starting   TC001_LoginTest  ****
+[INFO ] 2025-03-05 20:48:22.473 [main] TC002_LoginTest - clicked on my account link
+[INFO ] 2025-03-05 20:48:22.872 [main] TC002_LoginTest - clicked on login link
+[INFO ] 2025-03-05 20:48:22.958 [main] TC002_LoginTest - got email from config properties file
+[INFO ] 2025-03-05 20:48:23.008 [main] TC002_LoginTest - got password from config properties file
+[INFO ] 2025-03-05 20:48:24.159 [main] TC002_LoginTest - ####  Login Successful  ####
+[INFO ] 2025-03-05 20:48:24.159 [main] TC002_LoginTest - **** finished   TC001_LoginTest  ****
