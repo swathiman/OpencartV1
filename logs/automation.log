@@ -326,3 +326,18 @@ Session ID: 375bc2a21c7b0856f2bb6f0a56722526
 [INFO ] 2025-03-05 21:57:49.512 [main] TC002_LoginTest - got password from config properties file
 [INFO ] 2025-03-05 21:57:50.668 [main] TC002_LoginTest - ####  Login Successful  ####
 [INFO ] 2025-03-05 21:57:50.668 [main] TC002_LoginTest - **** finished   TC001_LoginTest  ****
+[INFO ] 2025-03-05 22:31:26.895 [main] TC001_AccountRegistrationTest - got url from properties
+[INFO ] 2025-03-05 22:31:26.940 [main] TC001_AccountRegistrationTest - *********** Starting TC001_AccountRegistrationTest**********
+[INFO ] 2025-03-05 22:31:27.050 [main] TC001_AccountRegistrationTest - Clicked on my account link 
+[INFO ] 2025-03-05 22:31:27.715 [main] TC001_AccountRegistrationTest - Clicked on register link 
+[INFO ] 2025-03-05 22:31:27.718 [main] TC001_AccountRegistrationTest - providing customer details 
+[INFO ] 2025-03-05 22:31:29.065 [main] TC001_AccountRegistrationTest - validating expected message
+[INFO ] 2025-03-05 22:31:29.097 [main] TC001_AccountRegistrationTest - *********** Finished TC001_AccountRegistrationTest**********
+[INFO ] 2025-03-05 22:31:33.613 [main] TC002_LoginTest - got url from properties
+[INFO ] 2025-03-05 22:31:33.639 [main] TC002_LoginTest - **** Starting   TC001_LoginTest  ****
+[INFO ] 2025-03-05 22:31:33.727 [main] TC002_LoginTest - clicked on my account link
+[INFO ] 2025-03-05 22:31:34.130 [main] TC002_LoginTest - clicked on login link
+[INFO ] 2025-03-05 22:31:34.224 [main] TC002_LoginTest - got email from config properties file
+[INFO ] 2025-03-05 22:31:34.277 [main] TC002_LoginTest - got password from config properties file
+[INFO ] 2025-03-05 22:31:35.461 [main] TC002_LoginTest - ####  Login Successful  ####
+[INFO ] 2025-03-05 22:31:35.461 [main] TC002_LoginTest - **** finished   TC001_LoginTest  ****
