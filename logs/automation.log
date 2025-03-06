@@ -154,3 +154,11 @@
 [INFO ] 2025-03-05 20:48:23.008 [main] TC002_LoginTest - got password from config properties file
 [INFO ] 2025-03-05 20:48:24.159 [main] TC002_LoginTest - ####  Login Successful  ####
 [INFO ] 2025-03-05 20:48:24.159 [main] TC002_LoginTest - **** finished   TC001_LoginTest  ****
+[INFO ] 2025-03-05 21:01:08.002 [main] TC001_AccountRegistrationTest - got url from properties
+[INFO ] 2025-03-05 21:01:08.044 [main] TC001_AccountRegistrationTest - *********** Starting TC001_AccountRegistrationTest**********
+[INFO ] 2025-03-05 21:01:22.530 [main] TC002_LoginTest - got url from properties
+[INFO ] 2025-03-05 21:01:22.553 [main] TC002_LoginTest - **** Starting   TC001_LoginTest  ****
+[INFO ] 2025-03-05 21:04:48.451 [main] TC001_AccountRegistrationTest - got url from properties
+[INFO ] 2025-03-05 21:04:48.486 [main] TC001_AccountRegistrationTest - *********** Starting TC001_AccountRegistrationTest**********
+[INFO ] 2025-03-05 21:05:03.357 [main] TC002_LoginTest - got url from properties
+[INFO ] 2025-03-05 21:05:03.389 [main] TC002_LoginTest - **** Starting   TC001_LoginTest  ****
